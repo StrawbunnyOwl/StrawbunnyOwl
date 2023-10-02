@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Star Wong | @phoenixics
 - 👀 I’m interested in computer graphics!
-- 🌱 I’m currently learning CUDA, OpenGL, and C++
+- 🌱 I’m currently learning CUDA, Unreal Engine 5 (UE5), and C++
 - 💞️ I’m looking to collaborate on any personal, game, or open-source projects
 - 📫 How to reach me: starwong@uw.edu
 
